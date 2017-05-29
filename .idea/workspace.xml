@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6c6dfe97-73fb-4828-b1ab-f169f5742e36" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/P1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/P1-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
     </list>
     <ignored path="CarND_P1_FindLanes.iws" />
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/P1.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="10" />
+              <selected id="12" />
             </state>
           </provider>
         </entry>
@@ -42,9 +41,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -171,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496062641481</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added reading of image directory.">
+      <created>1496064871087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1496064871087</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -220,7 +223,7 @@
     <entry file="file://$PROJECT_DIR$/P1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="10" />
+          <selected id="12" />
         </state>
       </provider>
     </entry>
