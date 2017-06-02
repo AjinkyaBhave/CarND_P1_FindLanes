@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c6dfe97-73fb-4828-b1ab-f169f5742e36" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/processed_images/solidWhiteCurve.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/processed_images/solidWhiteRight.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/processed_images/solidYellowCurve.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/processed_images/solidYellowCurve2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/processed_images/solidYellowLeft.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/processed_images/whiteCarLaneSwitch.jpg" afterPath="" />
+    <list default="true" id="6c6dfe97-73fb-4828-b1ab-f169f5742e36" name="Default" comment="Added reading of image directory.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/P1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/P1-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
@@ -188,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496065113290</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added reading of image directory.">
+      <created>1496323320012</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1496323320012</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
